@@ -22,8 +22,7 @@
 
 ## 28.02.2025
 
-- [ ]
-- [ ]
-- [ ]
+- [ ] Die Powerpoints für das Modul 114 analaysieren/besser verstehen
+- [ ] Mich im Modul 426 einarbeiten, da ich am ersten Modultag die LB absolvieren musste
 
 ✍️ Heute habe ich
