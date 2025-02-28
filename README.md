@@ -19,3 +19,11 @@
 - [x] Nachweise für das Modul 114 bearbeiten
 
 ✍️ Heute habe ich zuerst für das Modul 295 den Code für den Controller und Model erstellt. Nachher habe ich eine Datenabnk erstellt und sie verbunden, was ich dann am Schluss alles dokumentiert habe. Nachher habe ich meinen Fortschritt auf das Gitlab gepushed und über die Coderichtlininen dokumentiert. Nachher habe ich 2 Nachweise für das Modul 114 bearbeitet, was wiederum nicht zu lange brauchte und ich noch Zeit hatte, die Dokumentation für den ersten Teil der LB abzuschliessen.
+
+## 28.02.2025
+
+- [ ]
+- [ ]
+- [ ]
+
+✍️ Heute habe ich
