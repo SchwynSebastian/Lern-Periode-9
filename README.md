@@ -22,7 +22,7 @@
 
 ## 28.02.2025
 
-- [ ] Die Powerpoints für das Modul 114 analaysieren/besser verstehen
-- [ ] Mich im Modul 426 einarbeiten, da ich am ersten Modultag die LB absolvieren musste
+- [x] Die Powerpoints für das Modul 114 analaysieren/besser verstehen
+- [x] Mich im Modul 426 einarbeiten, da ich am ersten Modultag die LB absolvieren musste
 
-✍️ Heute habe ich
+✍️ Heute habe ich für das Modul 426 den Stoff (8010 bis 8016 über Scrum, User Stories) den Stoff angeschaut revisiert und mir das Video zu AgileSoftwareEntwicklung angeschaut. Ich habe mich nachher mit dem Powerpoint (im Modul 114) über Stegnographie angeschaut.
