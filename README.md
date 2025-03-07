@@ -26,3 +26,11 @@
 - [x] Mich im Modul 426 einarbeiten, da ich am ersten Modultag die LB absolvieren musste
 
 ✍️ Heute habe ich für das Modul 426 den Stoff (8010 bis 8016 über Scrum, User Stories) den Stoff angeschaut revisiert und mir das Video zu AgileSoftwareEntwicklung angeschaut. Ich habe mich nachher mit dem Powerpoint (im Modul 114) über Stegnographie angeschaut.
+
+## 07.03.2025
+
+- [ ]
+- [ ]
+- [ ]
+
+✍️ Heute habe ich
