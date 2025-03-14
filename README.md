@@ -31,8 +31,7 @@
 
 ## 14.03.2025
 
-- [ ]
-- [ ]
-- [ ]
+- [ ] herausfinden, wie ich meine Website publizieren, online mit anderen spielen könnte
+- [ ] Mich mit dem Modul maschine Learning mit Python befassen
 
 ✍️ Heute habe ich
