@@ -31,7 +31,7 @@
 
 ## 14.03.2025
 
-- [ ] herausfinden, wie ich meine Website publizieren, online mit anderen spielen könnte
+- [x] herausfinden, wie ich meine Website publizieren, online mit anderen spielen könnte
 - [ ] Mich mit dem Modul maschine Learning mit Python befassen
 
-✍️ Heute habe ich
+✍️ Heute habe ich sehr viel Zeit für Videos gebraucht. Ich habe Angeschaut/gelernt, wie Mupltiplayer Spiele erstellt werden, wie man sie erstellen kann (welche Methonden, wege, Möglichkeiten), danach habe ich mir angeschaut wie Unity mit Multiplayer funktioniert und wie man es mit C# programmieren könnte.
