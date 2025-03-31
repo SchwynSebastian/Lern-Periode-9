@@ -45,10 +45,15 @@
 
 ## 28.03.2025
 
+- [x] Auf Youtube und Google, Ideen für die Weiterentwicklung meines Projekts
+- [x] Mein Code sauberer gestalten
+
+✍️ Heute habe ich sehr viel Zeit fürs Recherchieren gebraucht. Mir ist ist die Idee, mehrere Spiele auf einer Website hinzuzufügen (z.B. Blackjack, HiLo, etc. und dan noch Jetons die über jedes Spiel hinweg behalten bleiben und das es den User Profil speichert) und vielleicht evt. eine Spiel, indem man sich frei herumbewegen kann.
+
+## 4.04.2025
+
 - [ ]
 - [ ]
 - [ ]
 
 ✍️ Heute habe ich
-
-
